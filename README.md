@@ -10,4 +10,6 @@ In order to check how your inputs look, please look in the assets folder for the
 
 "default.png" shows when you don't enter a movie name.
 
-"dowhatitsays.png" shows when you 
+"dowhatitsays.png" 
+
+"spotify.png" shows when you want to search for a song.
